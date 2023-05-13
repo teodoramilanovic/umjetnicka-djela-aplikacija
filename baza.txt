@@ -1,0 +1,360 @@
+ARTWORK
+
+{
+            "artistId": 1,
+            "location": "Louvre",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+            "mediumId": 1,
+            "periodId": 1,
+            "title": "Mona Lisa",
+            "dimensions": "60 cm x 45 cm",
+            "formId": 1,
+            "description": "Rendered similarly to Renaissance portrayals of the Virgin Mary, the piece features a female figure—believed by most to be Lisa Gherardini, the wife of cloth and silk merchant Francesco Giocondo—from the waist up. She is shown seated in a loggia, or a room with at least one open side.\n\nBehind her is a hazy and seemingly isolated landscape imagined by the artist and painted using sfumato, a technique resulting in forms “without lines or borders, in the manner of smoke or beyond the focus plane.”"
+        }
+
+ {
+            "artistId": 1,
+            "location": "Louvre Abu Dhabi",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg/800px-Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg",
+            "mediumId": 1,
+            "periodId": 1,
+            "title": "Salvator Mundi",
+            "dimensions": "66 cm x 45 cm",
+            "formId": 1,
+            "description": "The painting depicts Christ in an anachronistic blue Renaissance dress, making the sign of the cross with his right hand, while holding a transparent, non-refracting crystal orb in his left, signaling his role as Salvator Mundi and representing the 'celestial sphere' of the heavens. Approximately thirty copies and variations of the work by pupils and followers of Leonardo have been identified.[3] Two preparatory chalk and ink drawings of the drapery by Leonardo are held in the British Royal Collection.[4][5]  The painting was sold at auction for US$450.3 million on 15 November 2017 by Christie's in New York to Prince Badr bin Abdullah, setting a new record for the most expensive painting ever sold at public auction. "
+        }
+
+{
+            "artistId": 8,
+            "location": "San Pietro in Vincoli",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/0/0f/%27Moses%27_by_Michelangelo_JBU140.jpg",
+            "mediumId": 3,
+            "periodId": 1,
+            "title": "Moses",
+            "dimensions": "235 cm x 210 cm",
+            "formId": 2,
+            "description": "Giorgio Vasari in the Life of Michelangelo wrote: \"Michelangelo finished the Moses in marble, a statue of five braccia, unequaled by any modern or ancient work. Seated in a serious attitude, he rests with one arm on the tablets, and with the other holds his long glossy beard, the hairs, so difficult to render in sculpture, being so soft and downy that it seems as if the iron chisel must have become a brush. The beautiful face, like that of a saint and mighty prince, seems as one regards it to need the veil to cover it, so splendid and shining does it appear, and so well has the artist presented in the marble the divinity with which God had endowed that holy countenance. The draperies fall in graceful folds, the muscles of the arms and bones of the hands are of such beauty and perfection, as are the legs and knees, the feet were adorned with excellent shoes, that Moses may now be called the friend of God more than ever, since God has permitted his body to be prepared for the resurrection before the others by the hand of Michelangelo. The Jews still go every Saturday in troops to visit and adore it as a divine, not a human thing.\"[4]  The English translation of Sigmund Freud's \"The Moses of Michelangelo\" also provides a basic description of the sculpture: \"The Moses of Michelangelo is represented as seated; his body faces forward, his head with its mighty beard looks to the left, his right foot rests on the ground, and his left leg is raised so that only the toes touch the ground. His right arm links the Tables of the Law with something that looks like a book in the right palm of his hand with a portion of his beard; his left arm lies in his lap.\""
+        }
+
+{
+            "artistId": 17,
+            "location": "Galleria Borghese",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg/220px-Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg",
+            "mediumId": 3,
+            "periodId": 2,
+            "title": "Apollo and Daphne",
+            "dimensions": "243 cm",
+            "formId": 2,
+            "description": "Apollo and Daphne is a life-sized Baroque marble sculpture by Italian artist Gian Lorenzo Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome, the work depicts the climax of the story of Apollo and Daphne (Phoebus and Daphne) in Ovid's Metamorphoses. While the sculpture may be appreciated from multiple angles, Bernini planned for it to be viewed slightly from the right because the work would have been visible from the doorway where it was located. Viewing the sculpture from this angle allowed the observer to see the reactions of Apollo and Daphne simultaneously, thus understanding the narrative of the story in a single instant, without the need to move position. However, the sculpture was later moved to the middle of the room. Like Bernini's 1622 sculpture The Rape of Proserpina, Apollo and Daphne has a cartouche with a moral aphorism by Pope Urban VIII. Attributing Christian moral value to a pagan subject was a way of justifying the statue's presence in the Borghese villa."
+        }
+
+ {
+            "artistId": 17,
+            "location": "Santa Maria della Vittoria",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ecstasy_of_Saint_Teresa_September_2015-2a.jpg/220px-Ecstasy_of_Saint_Teresa_September_2015-2a.jpg",
+            "mediumId": 3,
+            "periodId": 2,
+            "title": "Ecstasy of Saint Teresa",
+            "dimensions": "230 cm x 147 cm",
+            "formId": 2,
+            "description": "The Ecstasy of Saint Teresa (also known as Saint Teresa in Ecstasy or the Transverberation of Saint Teresa; Italian: L'Estasi di Santa Teresa or Santa Teresa in estasi) is a sculptural group in white marble set in an elevated aedicule in the Cornaro Chapel of the church of Santa Maria della Vittoria in Rome. It was designed and completed by Gian Lorenzo Bernini, the leading sculptor of his day, who also designed the setting of the Chapel in marble, stucco and paint. It is generally considered to be one of the sculptural masterpieces of the High Roman Baroque. The sculpture depicts Teresa of Ávila, a Spanish Carmelite nun and saint, swooning in a state of religious ecstasy, while an angel holding a spear stands over her."
+        }
+
+{
+            "artistId": 18,
+            "location": "Musée Rodin",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rodin_-_Le_Baiser_06.jpg/250px-Rodin_-_Le_Baiser_06.jpg",
+            "mediumId": 3,
+            "periodId": 7,
+            "title": "The Kiss",
+            "dimensions": "180 cm x 112 cm",
+            "formId": 2,
+            "description": "The Kiss (French: Le Baiser) is an 1882 marble sculpture by the French sculptor Auguste Rodin. The embracing nude couple depicted in the sculpture appeared originally as part of a group of reliefs decorating Rodin's monumental bronze portal The Gates of Hell, commissioned for a planned museum of art in Paris. The couple were later removed from the Gates and replaced with another pair of lovers located on the smaller right-hand column. The sculpture, The Kiss, was originally titled Francesca da Rimini, as it depicts the 13th-century Italian noblewoman immortalised in Dante's Inferno (Circle 2, Canto 5) who falls in love with her husband Giovanni Malatesta's younger brother Paolo. Having fallen in love while reading the story of Lancelot and Guinevere, the couple are discovered and killed by Francesca's husband. In the sculpture, the book can be seen in Paolo's hand. The lovers' lips do not actually touch in the sculpture, suggesting that they were interrupted and met their demise without their lips ever having touched. When critics first saw the sculpture in 1887, they suggested the less specific title Le Baiser (The Kiss). Rodin indicated that his approach to sculpting women was of homage to them and their bodies, not just submitting to men but as full partners in ardor. The consequent eroticism in the sculpture made it controversial. A bronze version of The Kiss (74 centimetres (29 in) high) was sent for display at the 1893 World's Columbian Exposition in Chicago. The sculpture was considered unsuitable for general display and relegated to an inner chamber with admission only by personal application."
+        }
+
+{
+            "artistId": 18,
+            "location": "Musée Rodin",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mus%C3%A9e_Rodin_1.jpg/220px-Mus%C3%A9e_Rodin_1.jpg",
+            "mediumId": 4,
+            "periodId": 7,
+            "title": "The Thinker",
+            "dimensions": "185 cm",
+            "formId": 2,
+            "description": "The Thinker (French: Le Penseur) is a bronze sculpture by Auguste Rodin, usually placed on a stone pedestal. The work depicts a nude male figure of heroic size sitting on a rock. He is seen leaning over, his right elbow placed on his left thigh, holding the weight of his chin on the back of his right hand. The pose is one of deep thought and contemplation, and the statue is often used as an image to represent philosophy. Rodin conceived the figure as part of his work The Gates of Hell commissioned in 1880, but the first of the familiar monumental bronze castings was made in 1904, and is now exhibited at the Musée Rodin, in Paris. There are also 27 other known full-sized castings, in which the figure is approximately 185 cm (73 inches) high, although not all were made during Rodin's lifetime and under his supervision. There are various other versions, several in plaster, and studies and posthumous castings exist in a range of sizes."
+        }
+
+ {
+            "artistId": 8,
+            "location": "Galleria dell'Accademia",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michelangelo%27s_David_-_right_view_2.jpg/250px-Michelangelo%27s_David_-_right_view_2.jpg",
+            "mediumId": 3,
+            "periodId": 1,
+            "title": "David",
+            "dimensions": "517 cm x 199 cm",
+            "formId": 2,
+            "description": "David was originally commissioned as one of a series of statues of prophets to be positioned along the roofline of the east end of Florence Cathedral, but was instead placed in a public square, outside the Palazzo Vecchio, the seat of civic government in Florence, in the Piazza della Signoria, where it was unveiled on 8 September 1504. The statue was moved to the Galleria dell'Accademia, Florence, in 1873, and later replaced at the original location by a replica. Because of the nature of the figure it represented, the statue soon came to symbolize the defence of civil liberties embodied in the Republic of Florence, an independent city-state threatened on all sides by more powerful rival states and by the hegemony of the Medici family. The eyes of David, with a warning glare, were fixated towards Rome where the Medici family lived."
+        }
+
+ {
+            "artistId": 14,
+            "location": "Museum of Modern Art, New York",
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Les_Demoiselles_d%27Avignon.jpg/579px-Les_Demoiselles_d%27Avignon.jpg?20081229135437",
+            "mediumId": 1,
+            "periodId": 3,
+            "title": "The Ladies of Avignon",
+            "dimensions": "242 cm x 234 cm",
+            "formId": 1,
+            "description": "Les Demoiselles d'Avignon is a large oil painting created in 1907 by the Spanish artist Pablo Picasso. The work, part of the permanent collection of the Museum of Modern Art, portrays five nude female prostitutes in a brothel on Carrer d'Avinyó, a street in Barcelona, Spain. Each figure is depicted in a disconcerting confrontational manner and none is conventionally feminine. The women appear slightly menacing and are rendered with angular and disjointed body shapes. The figure on the left exhibits facial features and dress of Egyptian or southern Asian style. The two adjacent figures are shown in the Iberian style of Picasso's native Spain, while the two on the right are shown with African mask-like features. The ethnic primitivism evoked in these masks, according to Picasso, moved him to `liberate an utterly original artistic style of compelling, even savage force`."
+        }
+
+{
+            "artistId": 14,
+            "location": "Tate modern",
+            "picture": "https://upload.wikimedia.org/wikipedia/en/1/14/Picasso_The_Weeping_Woman_Tate_identifier_T05010_10.jpg?20170326052928",
+            "mediumId": 1,
+            "periodId": 5,
+            "title": "Dora",
+            "dimensions": "60 cm x 49 cm",
+            "formId": 1,
+            "description": "The Weeping Woman is a series of oil on canvas paintings by Pablo Picasso, the last of which was created in late 1937. The paintings depict Dora Maar, Picasso's mistress and muse. The Weeping Woman paintings were produced by Picasso in response to the bombing of Guernica in the Spanish Civil War and are closely associated with the iconography in his painting Guernica. Picasso was intrigued with the subject of the weeping woman, and revisited the theme numerous times that year. The last version, created on 26 October 1937, was the most elaborate of the series, and has been housed in the collection of the Tate Modern in London since 1987. Another Weeping Woman painting is housed at the National Gallery of Victoria and was involved in a high-profile political art theft."
+        }
+
+ {
+            "artistId": 15,
+            "location": "Private collection",
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Magritte_TheSonOfMan.jpg/225px-Magritte_TheSonOfMan.jpg",
+            "mediumId": 1,
+            "periodId": 5,
+            "title": "The Son of Man",
+            "dimensions": "116 cm x 89 cm",
+            "formId": 1,
+            "description": "Magritte painted it as a self-portrait. The painting consists of a man in an overcoat and a bowler hat standing in front of a low wall, beyond which are the sea and a cloudy sky. The man's face is largely obscured by a hovering green apple. However, the man's eyes can be seen peeking over the edge of the apple. Another subtle feature is that the man's left arm appears to bend backwards at the elbow. About the painting, Magritte said: At least it hides the face partly well, so you have the apparent face, the apple, hiding the visible but hidden, the face of the person. It's something that happens constantly. Everything we see hides another thing, we always want to see what is hidden by what we see. There is an interest in that which is hidden and which the visible does not show us. This interest can take the form of a quite intense feeling, a sort of conflict, one might say, between the visible that is hidden and the visible that is present."
+        }
+
+{
+            "artistId": 15,
+            "location": "Museum Boijmans",
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Portrait_of_Edward_James.jpg/200px-Portrait_of_Edward_James.jpg",
+            "mediumId": 1,
+            "periodId": 5,
+            "title": "Not to Be Reproduced",
+            "dimensions": "81 cm x 65 cm",
+            "formId": 1,
+            "description": "This painting was commissioned by poet and Magritte patron Edward James and is considered a portrait of James although James's face is not depicted. This painting was one of three produced by Magritte for the ballroom of James's London home. The other two were The Red Model (1937) and Time Transfixed (1938).The work depicts a man standing in front of a mirror, but whereas the book on the mantelpiece is reflected correctly, the man's reflection also shows him from behind."
+        }
+
+{
+            "artistId": 19,
+            "location": "National Gallery, London",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Vincent_Willem_van_Gogh_128.jpg",
+            "mediumId": 1,
+            "periodId": 8,
+            "title": "Sunflowers",
+            "dimensions": "91 cm x 72 cm",
+            "formId": 1,
+            "description": "Sunflowers (original title, in French: Tournesols) is the title of two series of still life paintings by the Dutch painter Vincent van Gogh. The first series, executed in Paris in 1887, depicts the flowers lying on the ground, while the second set, made a year later in Arles, shows a bouquet of sunflowers in a vase. In the artist's mind both sets were linked by the name of his friend Paul Gauguin, who acquired two of the Paris versions. About eight months later van Gogh hoped to welcome and to impress Gauguin again with Sunflowers, now part of the painted Décoration for the Yellow House that he prepared for the guestroom of his home in Arles, where Gauguin was supposed to stay. After Gauguin's departure, van Gogh imagined the two major versions as wings of the Berceuse Triptych, and finally he included them in his Les XX in Bruxelles exhibit."
+        }
+
+{
+            "artistId": 19,
+            "location": "Musée d'Orsay",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg/270px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg",
+            "mediumId": 1,
+            "periodId": 8,
+            "title": "Self-Portrait",
+            "dimensions": "65 cm x 54 cm",
+            "formId": 1,
+            "description": "This self-portrait was one of about 32 produced over a 10-year period, and these were an important part of his work as a painter;[1][2] he painted himself because he often lacked the money to pay for models.[5] He took the painting with him to Auvers-sur-Oise, near Paris, where he showed it to Dr. Paul Gachet, who thought it was `absolutely fanatical`. Art historians are divided as to whether this painting or Self-portrait without beard is Van Gogh's final self-portrait. The art historians Ingo F. Walther and Jan Hulsker consider this to be the last, with Hulsker considering that it was painted in Arles following Van Gogh's admission to hospital after mutilating his ear, while Ronald Pickvance thinks Self-portrait without beard was the later painting. Van Gogh sent the picture to his younger brother, the art dealer Theo; an accompanying letter read: `You will need to study [the picture] for a time. I hope you will notice that my facial expressions have become much calmer, although my eyes have the same insecure look as before, or so it appears to me.`"
+        }
+
+{
+            "artistId": 20,
+            "location": "Thyssen-Bornemisza Museum",
+            "picture": "https://upload.wikimedia.org/wikipedia/en/d/df/Dream_Caused_by_the_Flight_of_a_Bumblebee_around_a_Pomegranate_a_Second_Before_Awakening.jpg",
+            "mediumId": 5,
+            "periodId": 5,
+            "title": "Dream",
+            "dimensions": "51 cm x 40 cm",
+            "formId": 1,
+            "description": "It is an oil painting on wood. In this `hand-painted dream photograph`, as Dalí generally called his paintings, there is a seascape of distant horizons and calm waters, perhaps Port Lligat, amidst which Gala is the subject of the scene. Next to the naked body of the sleeping woman, which levitates above a flat rock that floats above the sea, Dalí depicts two suspended droplets of water and a pomegranate, a Christian symbol of fertility and resurrection.[3] Above the pomegranate flies a bee, an insect that traditionally symbolizes the Virgin.In the upper left of the painting what seems to be a yelloweye rockfish bursts out of the pomegranate, and in turn spews out a pouncing tiger that then spews out another pouncing tiger about to attack Gala and a rifle with a bayonet that is about to sting her in the arm. Above them is Dalí's first use of an elephant with long flamingo legs, found in his later compositions such as The Temptation of St. Anthony. The elephant carries on its back an obelisk, inspired by Bernini's Elephant and Obelisk in Rome's Piazza Santa Maria sopra Minerva."
+        }
+
+ {
+            "artistId": 20,
+            "location": "Kunstmuseum Basen",
+            "picture": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Burning_Giraffe.jpg",
+            "mediumId": 1,
+            "periodId": 5,
+            "title": "The Burning Giraffe",
+            "dimensions": "35 cm x 27 cm",
+            "formId": 1,
+            "description": "Dalí painted Burning Giraffe before his exile in the United States, which was from 1940 to 1948. Although Dalí declared himself apolitical—`I am Dalí, and only that`—this painting shows his personal struggle with the battle in his home country. Characteristic are the opened drawers in the blue female figure, which Dalí on a later date described as `Femme-coccyx` (tail bone woman). This phenomenon can be traced back to Sigmund Freud's psychoanalytical method, much admired by Dalí. He regarded him as an enormous step forward for civilization, as shown in the following quote: `The only difference between immortal Greece and our era is Sigmund Freud who discovered that the human body, which in Greek times was merely neoplatonical, is now filled with secret drawers only to be opened through psychoanalysis`."
+        }
+
+ {
+            "artistId": 21,
+            "location": "Princeton University Art Museum",
+            "picture": "https://www.antiquesandthearts.com/wp-content/uploads/2019/10/Claude-Monet-Waterlilies-and-Japanese-Bridge-1899_HIGH-RES.jpg",
+            "mediumId": 1,
+            "periodId": 9,
+            "title": "Water Lilies",
+            "dimensions": "91 cm x 90 cm",
+            "formId": 1,
+            "description": "Water Lilies and Japanese Bridge represents two of Monet’s greatest achievements: his gardens at Giverny and the series of paintings they inspired. In 1883 the artist moved to this country town, near Paris but just across the border of Normandy, and immediately began to redesign the property. In 1893, Monet purchased an adjacent tract, which included a small brook, and transformed the site into an Asian-inspired oasis of cool greens, exotic plants, and calm waters, enhanced by a Japanese footbridge. The serial approach embodied in this work—one of about a dozen paintings in which Monet returned to the same view under differing weather and light conditions—was one of his great formal innovations. He was committed to painting directly from nature as frequently as possible and whenever weather permitted, sometimes working on eight or more canvases in the same day. Monet’s project to capture ever-shifting atmospheric conditions came to be a hallmark of the Impressionist style."
+        }
+
+{
+            "artistId": 21,
+            "location": "National Gallery of Art",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg/1648px-Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg",
+            "mediumId": 1,
+            "periodId": 9,
+            "title": "Woman with a Parasol",
+            "dimensions": "100 cm x 81 cm",
+            "formId": 1,
+            "description": "Monet's light, spontaneous brushwork creates splashes of colour. Mrs Monet's veil is blown by the wind, as is her billowing white dress; the waving grass of the meadow is echoed by the green underside of her parasol. She is seen as if from below, with a strong upward perspective, against fluffy white clouds in an azure sky. A boy, the Monet's seven-year-old son, is placed further away, concealed behind a rise in the ground and visible only from the waist up, creating a sense of depth.The work is a genre painting of an everyday family scene, not a formal portrait. The work was painted outdoors, en plein air, and quickly, probably in a single period of a few hours[1] It measures 100 × 81 centimetres (39 × 32 in), Monet's largest work in the 1870s, and is signed `Claude Monet 75` in the lower right corner."
+        }
+
+
+
+ARTIST
+
+{
+        "yearOfDeath": 1680,
+        "nationality": "Italian",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg/220px-Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg",
+        "name": "Gian Lorenzo Bernini",
+        "yearOfBirth": 1598,
+        "description": "Gian Lorenzo (or Gianlorenzo) Bernini was an Italian sculptor and architect. While a major figure in the world of architecture, he was more prominently the leading sculptor of his age, credited with creating the Baroque style of sculpture. As one scholar has commented, \"What Shakespeare is to drama, Bernini may be to sculpture: the first pan-European sculptor whose name is instantaneously identifiable with a particular manner and vision, and whose influence was inordinately powerful ...\" In addition, he was a painter (mostly small canvases in oil) and a man of the theater: he wrote, directed and acted in plays (mostly Carnival satires), for which he designed stage sets and theatrical machinery. He produced designs as well for a wide variety of decorative art objects including lamps, tables, mirrors, and even coaches."
+    }
+
+ {
+        "yearOfDeath": 1917,
+        "nationality": "French",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Auguste_Rodin_by_George_Charles_Beresford_%28NPG_x6573%29.jpg/220px-Auguste_Rodin_by_George_Charles_Beresford_%28NPG_x6573%29.jpg",
+        "name": "Auguste Rodin",
+        "yearOfBirth": 1840,
+        "description": "François Auguste René Rodin was a French sculptor, generally considered the founder of modern sculpture. He was schooled traditionally and took a craftsman-like approach to his work. Rodin possessed a unique ability to model a complex, turbulent, and deeply pocketed surface in clay. He is known for such sculptures as The Thinker, Monument to Balzac, The Kiss, The Burghers of Calais, and The Gates of Hell.\nMany of Rodin's most notable sculptures were criticized, as they clashed with predominant figurative sculpture traditions in which works were decorative, formulaic, or highly thematic. Rodin's most original work departed from traditional themes of mythology and allegory. He modeled the human body with naturalism, and his sculptures celebrate individual character and physicality. Although Rodin was sensitive to the controversy surrounding his work, he refused to change his style, and his continued output brought increasing favor from the government and the artistic community."
+    }
+
+{
+        "yearOfDeath": 1564,
+        "nationality": "Italian",
+        "picture": "http://www.najboljeizitalije.rs/ast_mslu/files/michelangelo2028129.jpg",
+        "name": "Michelangelo",
+        "yearOfBirth": 1475,
+        "description": " Michelangelo was an Italian sculptor, painter, architect and poet of the High Renaissance. Born in the Republic of Florence, his work had a major influence on the development of Western art, particularly in relation to the Renaissance notions of humanism and naturalism. He is often considered a contender for the title of the archetypal Renaissance man, along with his rival and elder contemporary, Leonardo da Vinci.[2] Given the sheer volume of surviving correspondence, sketches, and reminiscences, Michelangelo is one of the best-documented artists of the 16th century and several scholars have described Michelangelo as the most accomplished artist of his era.[3][4]  He sculpted two of his best-known works, the Pietà and David, before the age of thirty. Despite holding a low opinion of painting, he also created two of the most influential frescoes in the history of Western art: the scenes from Genesis on the ceiling of the Sistine Chapel in Rome, and The Last Judgment on its altar wall. His design of the Laurentian Library pioneered Mannerist architecture.[5] At the age of 71, he succeeded Antonio da Sangallo the Younger as the architect of St. Peter's Basilica. He transformed the plan so that the western end was finished to his design, as was the dome, with some modification, after his death."
+    }
+
+ {
+        "yearOfDeath": 1973,
+        "nationality": "Spanish",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Portrait_de_Picasso%2C_1908.jpg",
+        "name": "Pablo Picasso",
+        "yearOfBirth": 1881,
+        "description": "Pablo Ruiz Picasso was a Spanish painter, sculptor, printmaker, ceramicist and theatre designer who spent most of his adult life in France. Regarded as one of the most influential artists of the 20th century, he is known for co-founding the Cubist movement, the invention of constructed sculpture,[8][9] the co-invention of collage, and for the wide variety of styles that he helped develop and explore. Among his most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907), and the anti-war painting Guernica (1937), a dramatic portrayal of the bombing of Guernica by German and Italian air forces during the Spanish Civil War."
+    }
+
+{
+        "yearOfDeath": 1898,
+        "nationality": "Belgian",
+        "picture": "https://upload.wikimedia.org/wikipedia/sr/9/92/Wolleh_magritte.jpg",
+        "name": "Rene Magritte",
+        "yearOfBirth": 1967,
+        "description": "René François Ghislain Magritte was a Belgian surrealist artist, who became well known for creating a number of witty and thought-provoking images. Often depicting ordinary objects in an unusual context, his work is known for challenging observers' preconditioned perceptions of reality. His imagery has influenced pop art, minimalist art, and conceptual art. Magritte's work frequently displays a collection of ordinary objects in an unusual context, giving new meanings to familiar things. The use of objects as other than what they seem is typified in his painting, The Treachery of Images (La trahison des images), which shows a pipe that looks as though it is a model for a tobacco store advertisement."
+    }
+
+ {
+        "yearOfDeath": 1890,
+        "nationality": "Dutch",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/220px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+        "name": "Vincent van Gogh",
+        "yearOfBirth": 1853,
+        "description": "Vincent Willem van Gogh was a Dutch Post-Impressionist painter who posthumously became one of the most famous and influential figures in Western art history. In a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life. They include landscapes, still lifes, portraits, and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. He was not commercially successful and, struggling with severe depression and poverty, committed suicide at the age of 37."
+    }
+
+{
+        "yearOfDeath": 1519,
+        "nationality": "Italian",
+        "picture": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcR8gQcD5ewEV7b-FcPzhJ2u6OGX_lChJROgta0c6zyRPPLSe2ES6yKJQvxiQOoyjdhp",
+        "name": "Leonardo da Vinci",
+        "yearOfBirth": 1452,
+        "description": "Leonardo di ser Piero da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect.[3] While his fame initially rested on his achievements as a painter, he also became known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and paleontology. Leonardo is widely regarded to have been a genius who epitomized the Renaissance humanist ideal, and his collective works compose a contribution to later generations of artists matched only by that of his younger contemporary, Michelangelo."
+    }
+
+ {
+        "yearOfDeath": 1989,
+        "nationality": "Spanish",
+        "picture": "https://uploads5.wikiart.org/images/salvador-dali.jpg!Portrait.jpg",
+        "name": "Salvador Dali",
+        "yearOfBirth": 1904,
+        "description": "Salvador Domingo Felipe Jacinto Dalí was a Spanish surrealist artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work.\nBorn in Figueres, Catalonia, Spain, Dalí received his formal education in fine arts in Madrid. Influenced by Impressionism and the Renaissance masters from a young age he became increasingly attracted to Cubism and avant-garde movements. He moved closer to Surrealism in the late 1920s and joined the Surrealist group in 1929, soon becoming one of its leading exponents. His best-known work, The Persistence of Memory, was completed in August 1931, and is one of the most famous Surrealist paintings. Dalí lived in France throughout the Spanish Civil War (1936 to 1939) before leaving for the United States in 1940 where he achieved commercial success. He returned to Spain in 1948 where he announced his return to the Catholic faith and developed his \"nuclear mysticism\" style, based on his interest in classicism, mysticism, and recent scientific developments."
+    }
+
+ {
+        "yearOfDeath": 1926,
+        "nationality": "French",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/220px-Claude_Monet_1899_Nadar_crop.jpg",
+        "name": "Claude Monet",
+        "yearOfBirth": 1840,
+        "description": "Oscar-Claude Monet was a French painter and founder of impressionist painting who is seen as a key precursor to modernism, especially in his attempts to paint nature as he perceived it.[1] During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions before nature, especially as applied to plein air (outdoor) landscape painting.[2] The term \"Impressionism\" is derived from the title of his painting Impression, soleil levant, exhibited in the 1874 (\"exhibition of rejects\") initiated by Monet and his associates as an alternative to the Salon."
+    }
+
+PERIOD
+
+{
+            "name": "Baroque"
+        }
+
+{
+            "name": "Realism"
+        }
+
+{
+            "name": "Renaissance"
+        }
+
+{
+            "name": "Cubism"
+        }
+
+{
+            "name": "Surrealism"
+        }
+
+{
+            "name": "Post-impressionism"
+        }
+
+{
+            "name": "Impressionism"
+        }
+
+MEDIUM 
+
+{
+            "name": "Oil on canvas"
+        }
+
+{
+            "name": "Marble"
+        }
+
+{
+            "name": "Bronze"
+        }
+
+{
+            "name": "Oil on wood"
+        }
+
+FORM
+
+{
+            "name": "Painting"
+        }
+
+{
+            "name": "Sculpture"
+        }
