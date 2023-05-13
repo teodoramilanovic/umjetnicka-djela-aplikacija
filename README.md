@@ -1,0 +1,1 @@
+Projekat iz Funkcionalnog programiranja
